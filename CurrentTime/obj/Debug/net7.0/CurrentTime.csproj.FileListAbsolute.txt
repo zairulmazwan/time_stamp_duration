@@ -1,0 +1,15 @@
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/bin/Debug/net7.0/CurrentTime
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/bin/Debug/net7.0/CurrentTime.deps.json
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/bin/Debug/net7.0/CurrentTime.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/bin/Debug/net7.0/CurrentTime.dll
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/bin/Debug/net7.0/CurrentTime.pdb
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.csproj.AssemblyReference.cache
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.dll
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/refint/CurrentTime.dll
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.pdb
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/CurrentTime.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/CurrentTime/CurrentTime/obj/Debug/net7.0/ref/CurrentTime.dll
