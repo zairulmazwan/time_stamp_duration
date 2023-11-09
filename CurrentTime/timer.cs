@@ -4,7 +4,7 @@ public class timer {
 
     public  static void get_duration_example ()
     {
-        Console.WriteLine ("A task start now....");
+        Console.WriteLine ("A task starts now....");
         DateTime start = DateTime.Now;
 
         for (int i = 0; i < 10; i++)
